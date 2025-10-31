@@ -1,7 +1,7 @@
 {
   "url": "https://cocoon-miner-bot.vercel.app",
   "name": "Cocoon Miner",
-  "iconUrl": "https://cocoon-miner-bot.vercel.app/vite.svg",
+  "iconUrl": "https://cdn.jsdelivr.net/gh/nikodrumpp/cocoon-miner-config@main/icon-512.png",
   "termsOfUseUrl": "https://cocoon-miner-bot.vercel.app",
   "privacyPolicyUrl": "https://cocoon-miner-bot.vercel.app"
 }
